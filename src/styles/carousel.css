@@ -1,0 +1,9 @@
+.sliderTop {
+  margin-bottom: -100px;
+  z-index: -1;
+}
+
+.sliderTop__image {
+  width: 100%;
+  height: 450px;
+}
